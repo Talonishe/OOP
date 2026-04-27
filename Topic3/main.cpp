@@ -4,7 +4,6 @@
 
 using namespace std;
 
-// ===== Task 1 =====
 double power(double n, int p = 2)
 {
 	double res = 1.0;
